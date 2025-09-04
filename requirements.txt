@@ -1,0 +1,7 @@
+pyrogram==2.0.33
+tgcrypto
+yt-dlp
+mutagen
+python-dotenv
+aiohttp
+aiofiles
