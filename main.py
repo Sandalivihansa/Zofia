@@ -11,8 +11,8 @@ from modules.rate_limiter import check_rate_limit
 load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-API_ID = int(os.getenv("API_ID") or 0)
-API_HASH = os.getenv("API_HASH") or None
+API_ID = int(os.getenv("5047271") or 0)
+API_HASH = os.getenv("047d9ed308172e637d4265e1d9ef0c27") or None
 OWNER_ID = int(os.getenv("OWNER_ID", "0"))
 MAX_FILE_MB = int(os.getenv("MAX_FILE_SIZE_MB", "50"))
 
